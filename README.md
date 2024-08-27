@@ -1,5 +1,5 @@
 # qi5uxeel
-qi5uxeel算法 fridarpc调用 xposedrpc调用
+qi5uxeel纯算法 
 
 
 # 2024-07-30 05点14分更新 优化qi5和登录 更新qi5生成速度 稳定性提高！！！
