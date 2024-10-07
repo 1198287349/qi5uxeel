@@ -2,7 +2,7 @@
 qi5uxeel纯算法 
 
 
-# 2024-08-28 04点27分更新 优化qi5和登录 更新纯算法 更新qi5生成速度 稳定性提高！！！
+# 2024-10-07 rpc调用 百分百稳定！！！
 ![qi5算法 2024-07-30](https://github.com/user-attachments/assets/312d6b0d-6169-41a0-88d9-96abda6999b4)
 
 
