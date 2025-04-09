@@ -28,7 +28,7 @@ headers = {
     'safe_id': 'ISRS',
     'dlv_equipment_type': 'samsung',
     'jdpt_sign': jdpt_sign,
-    'pda_version': '243',
+    'pda_version': '250',
     'pda_sys_version': '12',
     'x-forwarded-for': '脱敏处理'
 }
